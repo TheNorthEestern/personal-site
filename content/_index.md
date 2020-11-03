@@ -1,7 +1,9 @@
 ---
 hero:
-  heading: Novela, the simplest way to start publishing with Hugo and Forestry.
-  maxWidthPX: 652
+  heading: Software Engineer, Maker, Loves Cereals by Quaker. Creator of Awesome 2D
+    and 3D experiences.
+  maxWidthPX: "652"
 seo:
-  image: /images/hero-2.jpg
+  image: "/images/hero-2.jpg"
+
 ---

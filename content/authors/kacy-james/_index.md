@@ -1,15 +1,17 @@
 ---
-title: Kacy James  
-bio: |
-  Written by You. This is where your author bio lives. Share your work, your
-  joys and of course, your Twitter handle.
-avatar: /images/dennis-brotzky.jpg
-featured: true
+title: Kacy James
+bio: 'Software Engineer, Maker, Loves Cereals by Quaker. Creator of Awesome 2D and
+  3D experiences.
+
+'
+avatar: "/images/dennis-brotzky.jpg"
+featured: false
 social:
-  - title: github 
-    url: https://github.com/TheNorthEestern
-  - title: instagram 
-    url: https://instagram.com/kacy.james
-  - title: linkedin 
-    url: https://linkedin.com/in/kacyjames
+- title: github
+  url: https://github.com/TheNorthEestern
+- title: instagram
+  url: https://instagram.com/kacy.james
+- title: linkedin
+  url: https://linkedin.com/in/kacyjames
+
 ---
